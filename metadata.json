@@ -1,0 +1,6 @@
+{
+  "name": "OUTPOST 14: The Red Planet Mission",
+  "description": "One Planet. Four Astronauts. Fourteen Sols. An educational Mars outpost survival strategy game for ages 7–12 powered by real NASA open space weather data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
